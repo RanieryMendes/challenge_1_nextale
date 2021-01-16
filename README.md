@@ -8,7 +8,7 @@
 
 
 
-###### To run that code just launch the following command at your command line within this fold
+###### To run that code just clone this repository and then launch the following command at your command line within this fold
 
 `node index.js`
 
